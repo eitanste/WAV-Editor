@@ -1,2 +1,2 @@
 # WAV-Editor
-A simple program to edit a WAV audio file
+A simple program to edit and creat a WAV audio files
