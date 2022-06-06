@@ -17,4 +17,5 @@ If the user chooses to creat a new file, he will be asked to provide a path to a
 the instruction file should be from the following format: a sequence of pairs (note, duration) each seperated by a space, when the note is represented by a letter from A to F, and duration is an integer representing the amount of 1/16 of a second that the note will be played.
 
 I provided some files that can be edited, along some instruction files for creating new sounds.
+
 Enjoy!
