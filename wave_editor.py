@@ -18,19 +18,19 @@ import wave_helper as help
 # some constant massages
 
 START_INPUT = ('please choose a number \n '
-               '1. to editing \n '
-               '2. for creating \n '
-               '3. for quit \n')
+               '1 - for editing \n '
+               '2 - for creating \n '
+               '3 - for quit \n')
 
 EDIT_INPUT = 'Pleas choose wat to do with the file: \n' \
-             '1. Revers audio \n' \
-             '2. Audio canceling\n' \
-             '3. Speed up\n' \
-             '4. Speed down\n' \
-             '5. Volume up\n' \
-             '6. Volume down\n' \
-             '7. Dimming effect\n' \
-             '8. Saving and back to start\n'
+             '1 - Revers audio \n' \
+             '2 - Audio canceling\n' \
+             '3 - Speed up\n' \
+             '4 - Speed down\n' \
+             '5 - Volume up\n' \
+             '6 - Volume down\n' \
+             '7 - Dimming effect\n' \
+             '8 - Saving and back to start\n'
 
 FILE_NAME = 'Please provide a file name: \n'
 
