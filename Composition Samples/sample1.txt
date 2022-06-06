@@ -1,0 +1,4 @@
+F 16 G 4 C 4 C 4 D 4 D 4 C 8 B 4 B 4 A 4 A 4 G 8
+
+FREQ_MAPPER = {'A': A, "B": B, "C": C, "D": D, "E": E, "F": F, "G": G, "Q": 0}
+function_G(i)
